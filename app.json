@@ -1,0 +1,7 @@
+{
+  "name": "STL DSA Open Slides",
+  "description": "An instance of the Open Slides meeting software for STL DSA.",
+  "website": "https://openslides.stldsa.org",
+  "logo": "https://stldsa.org/staticfiles/images/FLAG_VERSION.svg",
+  "repository": "https://github.com/stldsa/openslides"
+}
